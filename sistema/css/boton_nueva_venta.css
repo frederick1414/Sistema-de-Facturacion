@@ -1,0 +1,85 @@
+
+
+
+.btn_new{
+	display: inline-block;
+	background: #239baa;
+	color: #FFF;
+	padding: 5px 25px;
+	border-radius: 4px;
+	margin: 20px;
+}
+
+.data_delete{
+	text-align: center;
+}
+
+.data_delete h2{
+	font-size: 12pt;
+}
+.data_delete span{
+	font-weight: bold;
+	color: #4f72d4;
+	font-size: 12pt;
+}
+
+.btn_cancel, .btn_ok{
+    width: 124px;
+    background: #478ba2;
+    color: #fff;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 15px;
+}
+
+.btn_cancel{
+    background-color:#42b343;
+}
+
+.data_delete form{
+    background: initial;
+    margin: auto;
+    padding: 20px 50px;
+    border: 0;
+}
+
+/*=====tablas
+
+
+/*-------------------LISTA USUARIOS------------------------------*/
+
+
+
+table{
+	border-collapse: collapse;
+	font-size: 12pt;
+	font-family: 'Arial';
+	width: 100%;
+}
+table th{
+	text-align: left;
+	padding: 10px;
+	background:#0b8bda;
+	color: white;
+
+}
+
+table tr:nth-child(odd){
+	background: #FFF;
+}
+
+table td{
+	padding: 10px;
+}
+
+.link_add{
+	color: #0ca4ce;
+}
+.link_delete{
+	color: #f26b6b;
+}
+
+
+

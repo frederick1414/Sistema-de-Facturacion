@@ -1,0 +1,48 @@
+
+/*========estilos del Buscador=====================================*/
+
+.form_search{
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    float: right;
+    background: initial;
+    padding: 10px;
+    border-radius: 10px;
+
+}   
+
+.form_search .btn_search{
+    background: #1faac8;
+    color: #FFF;
+    padding: 10px;
+    border: 0;
+    cursor:pointer;
+    margin-left: 10px;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    border-radius: 5px;
+}
+
+.form_search_input{
+    
+    
+    padding: 10px;
+    border: 0;
+    cursor:pointer;
+    margin-left: 10px;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    border-radius: 5px;
+
+
+}
+
